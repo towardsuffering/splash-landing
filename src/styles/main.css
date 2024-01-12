@@ -78,7 +78,7 @@ h1 {
 h2 {
   font-size: var(--step-4);
   font-family: var(--font-family-heading);
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.2;
 }
 

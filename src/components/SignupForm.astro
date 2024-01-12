@@ -38,19 +38,10 @@ import Button from "./Button.astro";
 
 <form name="contact" method="POST" data-netlify="true">
   <p>
-    <label>Your Name: <input type="text" name="name" /></label>
+    <input type="text" placeholder="Name" name="name" />
   </p>
   <p>
-    <label>Your Email: <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <label>Your Role: <select name="role[]" multiple>
-      <option value="leader">Leader</option>
-      <option value="follower">Follower</option>
-    </select></label>
-  </p>
-  <p>
-    <label>Message: <textarea name="message"></textarea></label>
+    <input type="email" placeholder="Email Address" name="email" />
   </p>
   <p>
     <Button>Submit</Button>
