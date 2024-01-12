@@ -17,7 +17,7 @@
 </div>
 <br/>
 
-# Cannonball Splash Page 💦
+# Root Labs 💦
 
 This is a template for a modern splash page/coming soon page inspired by [this Framer template](https://coming-soon.framer.website/).
 
